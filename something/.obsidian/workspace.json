@@ -8,29 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9e12ac6d53068edd",
+            "id": "118666dcb38f537f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "mysql.md",
+                "file": "git.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "424d182642a9ce00",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1064711808b4bb15",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "mysql.md",
+                "file": "git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "mysql.md",
+                "file": "git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "mysql.md"
+                "file": "git.md"
               }
             }
           }
@@ -160,9 +146,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9e12ac6d53068edd",
+  "active": "118666dcb38f537f",
   "lastOpenFiles": [
-    "xtrabackup.md",
-    "mysql.md"
+    "mysql.md",
+    "git.md",
+    "xtrabackup.md"
   ]
 }
